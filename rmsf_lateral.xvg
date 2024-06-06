@@ -1,0 +1,67 @@
+# This file was created Thu Jun  6 01:06:58 2024
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2022.3 (-:
+# 
+# Executable:   /home/pecosa/gromacs-2022.3/build-gpu/bin/gmx
+# Data prefix:  /home/pecosa/gromacs-2022.3 (source tree)
+# Working dir:  /home/pecosa/20_UPCH_MDS
+# Command line:
+#   gmx rmsf -s md_0_1.tpr -f md_0_1_noPBC.xtc -o rmsf_lateral.xvg
+# gmx rmsf is part of G R O M A C S:
+#
+# GROup of MAchos and Cynical Suckers
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Atom"
+@    yaxis  label "(nm)"
+@TYPE xy
+    6   0.2203
+    7   0.2409
+    8   0.2731
+    9   0.2684
+   10   0.2792
+   16   0.1207
+   17   0.1395
+   18   0.2002
+   19   0.1806
+   20   0.1738
+   26   0.1569
+   27   0.1538
+   28   0.1971
+   29   0.1990
+   30   0.1771
+   36   0.1351
+   37   0.1400
+   38   0.1846
+   39   0.1868
+   40   0.1727
+   46   0.1860
+   47   0.2138
+   48   0.2602
+   49   0.2191
+   50   0.2572
+   56   0.2086
+   57   0.2105
+   58   0.2493
+   59   0.2372
+   60   0.2356
+   66   0.1670
+   67   0.1782
+   68   0.2077
+   69   0.2116
+   70   0.2255
+   76   0.1584
+   77   0.1870
+   78   0.2294
+   79   0.2149
+   80   0.2414
+   86   0.1758
+   87   0.2927
+   88   0.3418
+   89   0.3442
+   90   0.3427
+   96   0.3616
+   97   0.3492
+   98   0.3774
+   99   0.3851
+  100   0.3809
